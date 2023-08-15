@@ -19,7 +19,7 @@ mysql
 
 1. Клонирование репозитория git
     ```
-    git clone https://github.com/Suglobov/robo_last_test.git
+    git clone https://github.com/0code111/MoneyTransferApp.git
     ```
 
 1. Копируем файл ***.env.example*** в файл ***.env***
